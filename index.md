@@ -1,7 +1,7 @@
 # Hexapod
 Made by Micheal Ray Milton and Dorian Kovačević, Tehnička škola Slavonski Brod(Technical school Slavonski Brod)
 
-{% include youtubePlayer.html id='D6T-x6eK99k' %}
+{%include youtubePlayer.html id='D6T-x6eK99k'%}
 
 ## Undergradude final project
 (završni rad, senior thesis, honors thesis)
