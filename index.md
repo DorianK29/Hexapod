@@ -1,5 +1,5 @@
 # Hexapod
-<sub>made by Micheal Ray Milton and Dorian Kovačević</sub>
+Made by Micheal Ray Milton and Dorian Kovačević, Tehnička škola Slavonski Brod(Technical school Slavonski Brod)
 
 {% include googleDrivePlayer.html id=page.1FeIpvN1m7bThbsOkztMqH9LtG-MvSCjk/view %}
 
