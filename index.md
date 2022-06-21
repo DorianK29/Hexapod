@@ -1,3 +1,5 @@
+Made during our study at Tehnička škola Slavonski Brod(Technical school Slavonski Brod) in the year 2022.
+
 {%include youtubePlayer.html id='D6T-x6eK99k'%}
 
 
