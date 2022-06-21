@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Hexapod
+<sub>made by Micheal Ray Milton and Dorian Kovačević</sub>
 
-You can use the [editor on GitHub](https://github.com/DorianK29/doriank29.github.io./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+{% include googleDrivePlayer.html id=page.1FeIpvN1m7bThbsOkztMqH9LtG-MvSCjk/view %}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Undergradude final project
+(završni rad, senior thesis, honors thesis)
 
-### Markdown
+The written paper submitted by us in Croatian:
+- [google drive](https://drive.google.com/file/d/1IeAkGCefQATIOI2VWCPJCTtHlTw8PiWc/view?usp=sharing)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## CAD files
+Made in CATIA V5:
+- [google drive](https://drive.google.com/drive/folders/1QQRWzVuSSnGnp3QAfDBRTR51gKrdCw-J?usp=sharing)
 
-```markdown
-Syntax highlighted code block
+## Arduino code
+GitHub repository [ArduinoHexapodControl](https://github.com/DorianK29/ArduinoHexapodControl)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DorianK29/doriank29.github.io./settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Android app code
+Git hub repository [HexapodApp](https://github.com/DorianK29/HexapodApp)
