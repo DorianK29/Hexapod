@@ -8,7 +8,7 @@ Made during our study at Tehnička škola Slavonski Brod(Technical school Slavon
 
 {%include youtubePlayer.html id='D6T-x6eK99k'%}
 
-![rl model](/images/hexapod_rl_model.gif)
+![rl model](/images/hexapod_rl_model.gif){:class="img-responsive" width="80%"}
 
 ## 3D Model
 The whole Hexapod was 3D printed in our school using the Ender 3. 
