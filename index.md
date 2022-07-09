@@ -94,7 +94,7 @@ Source code GitHub repository:
 - [ArduinoHexapodControl](https://github.com/DorianK29/ArduinoHexapodControl)
 
 ## Android app code
-Git hub repository:
+GitHub repository:
 - [HexapodApp](https://github.com/DorianK29/HexapodApp)
 
 ![Android app](/images/mobile%20app.png){:class="img-responsive" width="30%"} 
