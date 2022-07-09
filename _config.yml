@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Hexapod
 description: made by Micheal Ray Milton and Dorian Kovačević
+math_engine: mathjax
+markdown: kramdown
