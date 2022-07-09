@@ -8,6 +8,8 @@ Made during our study at Tehnička škola Slavonski Brod(Technical school Slavon
 
 {%include youtubePlayer.html id='D6T-x6eK99k'%}
 
+![rl model](/images/hexapod_rl_model.gif)
+
 ## 3D Model
 The whole Hexapod was 3D printed in our school using the Ender 3. 
 Made in CATIA V5.
