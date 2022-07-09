@@ -21,16 +21,16 @@ All the CATIA part files and STL files are in the following link:
 ![body](/images/body.png){:class="img-responsive" width="70%"}
 
 ### Joint 1
-![joint 1](/images/joint%201.png){:class="img-responsive" width="70%"} 
+![joint 1](/images/joint1.png){:class="img-responsive" width="70%"} 
 
 ### Joint 2
-![joint 2](/images/joint%202.png){:class="img-responsive" width="70%"} 
+![joint 2](/images/joint2.png){:class="img-responsive" width="70%"} 
 
 ### Joint 3
-![joint 3](/images/joint%203.png){:class="img-responsive" width="70%"} 
+![joint 3](/images/joint3.png){:class="img-responsive" width="70%"} 
 
 ### Joint and Motor connection
-![joint motor connection](/images/joint%20motor%20connection.png){:class="img-responsive" width="70%"} 
+![joint motor connection](/images/joint_motor_connection.png){:class="img-responsive" width="70%"} 
 
 ## Leg angle calculation
 Derived from: 
@@ -97,4 +97,4 @@ Source code GitHub repository:
 GitHub repository:
 - [HexapodApp](https://github.com/DorianK29/HexapodApp)
 
-![Android app](/images/mobile%20app.png){:class="img-responsive" width="30%"} 
+![Android app](/images/mobile_app.png){:class="img-responsive" width="30%"} 
